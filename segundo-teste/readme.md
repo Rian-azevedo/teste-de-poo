@@ -1,0 +1,1 @@
+objetivo do codigo e criar uma pessoa em poo 
