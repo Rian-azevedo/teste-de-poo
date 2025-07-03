@@ -1,1 +1,1 @@
-objetivo conseguir cadastrar pessoas em objetos
+objetivo conseguir cadastrar pessoas com poo

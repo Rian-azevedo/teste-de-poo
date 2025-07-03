@@ -1,0 +1,1 @@
+usando setters e getters de um jeito pythonico moderno

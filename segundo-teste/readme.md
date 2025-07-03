@@ -1,1 +1,1 @@
-objetivo do codigo e criar uma pessoa em poo 
+objetivo do codigo é criar um personagem em poo

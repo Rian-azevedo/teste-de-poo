@@ -1,0 +1,1 @@
+objetivo e testar o encapsulamento

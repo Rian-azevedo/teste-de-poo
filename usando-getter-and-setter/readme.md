@@ -1,0 +1,1 @@
+usando getter e setter padrao
